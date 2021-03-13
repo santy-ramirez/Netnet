@@ -115,6 +115,7 @@ margin: auto;
 /*------------------- secciones-------------*/
 
 .secciones {
+   
     width: 700px;
     height: auto;
     display: flex;
@@ -122,13 +123,14 @@ margin: auto;
     
     margin-bottom: 70px;
     overflow: hidden;
+   
 }
 
 .secion {
     display: flex;
-   width: 100%;
-   margin-top: 30px;
-  
+    width: 100%;
+    margin-top: 30px;
+   
    
 }
 .item{
@@ -137,7 +139,7 @@ margin: auto;
    
 }
 .item > img{
-    width: 100%;
+    width: 100%; 
 }
 
 /* navegacion */
